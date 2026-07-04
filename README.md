@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Muhammad%20Taha%20Zaman&fontSize=42&fontColor=ffffff&desc=AI%20Engineer%20|%20Data%20Scientist%20|%20Quant%20Developer&descSize=18&descAlignY=65&fontAlignY=32" width="100%" alt="banner" />
 
-**Enterprise Technology & Strategic Initiatives, Data & AI · United Bank Limited**
+**Enterprise Technology & Strategic Initiatives, Data & AI**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EA3F2&center=true&vCenter=true&width=700&lines=Open+to+AI%2FML+Engineer+and+Data+Science+roles;Building+AI+products+that+solve+real-world+problems;Exploring+Quant+Developer+%26+Quantitative+Finance" alt="Typing SVG" />
 
