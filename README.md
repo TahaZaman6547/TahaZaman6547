@@ -4,6 +4,8 @@
 
 **Enterprise Technology & Strategic Initiatives, Data & AI · United Bank Limited**
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EA3F2&center=true&vCenter=true&width=700&lines=Open+to+AI%2FML+Engineer+and+Data+Science+roles;Building+AI+products+that+solve+real-world+problems;Exploring+Quant+Developer+%26+Quantitative+Finance" alt="Typing SVG" />
+
 ### AI &nbsp;|&nbsp; Generative AI &nbsp;|&nbsp; Data Science &nbsp;|&nbsp; Quant Developer &nbsp;|&nbsp; Quantum Finance Engineer &nbsp;|&nbsp; ML &amp; Deep Learning Engineer
 
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-2ea44f?style=flat-square" />
