@@ -39,6 +39,17 @@
 
 ### ✦ Tech Stack
 
+**✦ AI / ML / Data Science**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" />
+
 **✦ Generative AI & LLMs**
 <br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -55,16 +66,18 @@
 <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
 
-**✦ AI / ML / Data Science**
+**✦ Quant Developer & Quantitative Finance**
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/LSTM-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Time--Series%20Forecasting-8A2BE2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gradient%20Boosting-337AB7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ML%20Credit%20Scoring-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Treasury%20Analytics-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Portfolio%20Optimization-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Funds%20Transfer%20Pricing-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stochastic%20Modelling-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Quantum%20AI%20Research-8A2BE2?style=for-the-badge" />
 
 **✦ Computer Vision & Robotics**
 <br/>
