@@ -188,7 +188,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TahaZaman6547&show_icons=true&theme=radical&hide_border=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TahaZaman6547&theme=radical&hide_border=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=TahaZaman6547&theme=radical&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
