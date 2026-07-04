@@ -186,10 +186,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TahaZaman6547&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/TahaZaman6547/TahaZaman6547/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" />
-</div>
-
 ---
 
 ### ✦ Honours & Awards
