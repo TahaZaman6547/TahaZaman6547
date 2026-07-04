@@ -187,7 +187,11 @@
 ### ✦ GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TahaZaman6547&show_icons=true&theme=radical&hide_border=true" width="65%" />
+<img src="https://streak-stats.demolab.com/?user=TahaZaman6547&theme=radical&hide_border=true" width="65%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TahaZaman6547&theme=react-dark&hide_border=true" width="100%" />
 </div>
 
 ---
