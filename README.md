@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Muhammad%20Taha%20Zaman&fontSize=42&fontColor=ffffff&desc=AI%20Engineer%20|%20Quant%20Developer&descSize=18&descAlignY=65&fontAlignY=32" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Muhammad%20Taha%20Zaman&fontSize=42&fontColor=ffffff&desc=AI%20Engineer%20|%20Data%20Scientist%20|%20Quant%20Developer&descSize=18&descAlignY=65&fontAlignY=32" width="100%" alt="banner" />
 
 **Enterprise Technology & Strategic Initiatives, Data & AI · United Bank Limited**
 
@@ -193,10 +193,6 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TahaZaman6547&theme=react-dark&hide_border=true" width="100%" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TahaZaman6547&theme=radical&no-frame=true&row=1&column=6" width="100%" />
 </div>
 
 <div align="center">
